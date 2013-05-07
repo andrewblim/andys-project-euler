@@ -1,0 +1,5 @@
+# Andy's Project Euler solutions
+
+This repo contains solutions for [Project Euler](http://projecteuler.net/). OBVIOUSLY THESE ARE SPOILERS. Do NOT read them if you would like to solve the problems unassisted. There is no monetary prize for finishing the problems, they are just for fun, and so I thought it would be OK to put a repo up about it, with adequate spoiler warnings, as a nice resource for people to read after they've completed the problems on their own. 
+
+The main reason I undertook this was to learn/sharpen existing knowledge of programming languages, in particular the 3 I work with regularly, Python, Ruby, and R, and hopefully Clojure as one I would like to learn (and others if I've got time!). Hence there are solution files in multiple languages; for example `ruby1.rb` contains a Ruby solution for problem 1, `python1.py` contains a Python solution for problem 2, etc. 
